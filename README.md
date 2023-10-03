@@ -1,1 +1,1 @@
-# zsh-profile
+# zshrc
